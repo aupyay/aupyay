@@ -39,7 +39,7 @@ TypeScript end to end. Next.js and React on the web, React Native on mobile, Ele
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aupyay&theme=dark&hide_border=true&background=00000000">
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=aupyay&hide_border=true">
-</picture>picture>
+</picture>
 
 ## Elsewhere
 

@@ -12,12 +12,20 @@ I spent most of my career moving regulated data around safely, first for planes,
 
 Most of my code is in the [YosemiteCrew](https://github.com/YosemiteCrew) org, not in this account's repo list. Start with the [Yosemite-Crew commit history](https://github.com/YosemiteCrew/Yosemite-Crew/commits?author=aupyay) and the pull request reviews; I ship and review daily. Every pull request passes SonarCloud with 95 percent coverage on new code and zero new issues, plus security scanning and a full typed monorepo build, before it merges.
 
+One housekeeping note: this account is younger than my career. I lost access to my older GitHub profiles, and the work that lived on them. If you come across my prior projects out in the community, let me know.
+
 ## Stack
 
 TypeScript end to end. Next.js and React on the web, React Native on mobile, Electron on desktop, Node APIs, Postgres with Prisma. pnpm workspaces, Jest, GitHub Actions. Boring on purpose.
 
+## Scoreboard
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aupyay&show_icons=true&theme=transparent&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aupyay&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=aupyay&theme=onedark&row=1&column=7&margin-w=8)
+
 ## Elsewhere
 
-- [yosemitecrew.com](https://yosemitecrew.com)
-- - [YosemiteCrew on GitHub](https://github.com/YosemiteCrew)
-  - 
+[yosemitecrew.com](https://yosemitecrew.com) · [YosemiteCrew on GitHub](https://github.com/YosemiteCrew) · [LinkedIn](https://www.linkedin.com/in/aupyay)

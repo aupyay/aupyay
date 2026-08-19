@@ -36,7 +36,10 @@ TypeScript end to end. Next.js and React on the web, React Native on mobile, Ele
 [![Yosemite Crew stars](https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=for-the-badge&logo=github&label=Yosemite%20Crew%20stars)](https://github.com/YosemiteCrew/Yosemite-Crew)
 ![Profile views](https://komarev.com/ghpvc/?username=aupyay&style=for-the-badge)
 
-![GitHub streak](https://streak-stats.demolab.com?user=aupyay&theme=transparent&hide_border=true)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aupyay&theme=dark&hide_border=true&background=00000000">
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=aupyay&hide_border=true">
+</picture>picture>
 
 ## Elsewhere
 

@@ -4,7 +4,7 @@ I spent most of my career moving regulated data around safely, first for planes,
 
 ## Building now
 
-**[Yosemite Crew](https://github.com/YosemiteCrew/Yosemite-Crew)** - an open-source operating system for animal health. Scheduling, medical records, invoicing, inventory: the plumbing a clinic actually runs on. AGPLv3, running in around 1,200 clinics, with web, desktop and mobile apps built from one TypeScript monorepo.
+**[Yosemite Crew](https://github.com/YosemiteCrew/Yosemite-Crew)** - an open-source operating system for animal health. Scheduling, medical records, invoicing, inventory: the plumbing a clinic actually runs on. AGPLv3, with web, desktop and mobile apps built from one TypeScript monorepo.
 
 **[openrunic](https://github.com/YosemiteCrew/openrunic)** - the same idea pointed at human health. Early, and public since the first commit.
 

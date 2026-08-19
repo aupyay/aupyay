@@ -18,13 +18,25 @@ One housekeeping note: this account is younger than my career. I lost access to 
 
 TypeScript end to end. Next.js and React on the web, React Native on mobile, Electron on desktop, Node APIs, Postgres with Prisma. pnpm workspaces, Jest, GitHub Actions. Boring on purpose.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ## Scoreboard
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aupyay&show_icons=true&theme=transparent&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/aupyay?style=for-the-badge&logo=github&label=Followers)](https://github.com/aupyay?tab=followers)
+[![Yosemite Crew stars](https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=for-the-badge&logo=github&label=Yosemite%20Crew%20stars)](https://github.com/YosemiteCrew/Yosemite-Crew)
+![Profile views](https://komarev.com/ghpvc/?username=aupyay&style=for-the-badge)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aupyay&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=aupyay&theme=onedark&row=1&column=7&margin-w=8)
+![GitHub streak](https://streak-stats.demolab.com?user=aupyay&theme=transparent&hide_border=true)
 
 ## Elsewhere
 

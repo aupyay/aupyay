@@ -1,6 +1,6 @@
 # Hi, I'm Ankit
 
-I spent most of my career moving regulated data around safely, first for planes, then for medicine. Doctorate in deep learning, two startup exits, engineering orgs of about a hundred people. None of it prepared me for a veterinary clinic's filing system, so I'm fixing that instead.
+I spent most of my career moving regulated data around safely, first for planes, then for medicine. Doctorate in deep learning, two startup exits, engineering orgs of about a hundred people. 
 
 ## Building now
 

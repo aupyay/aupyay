@@ -1,6 +1,6 @@
 # Hi, I'm Ankit
 
-I spent most of my career moving regulated data around safely, first for planes, then for medicine. Doctorate in deep learning, two startup exits, engineering orgs of about a hundred people. 
+I spent most of my career moving regulated data around safely, first for planes, then for medicine. Doctorate in deep learning, two startup exits, engineering and product orgs of about a hundred people. 
 
 ## Building now
 
